@@ -7,6 +7,8 @@ I work as a research fellow with Douglas Armstrong at the Institute
 for Adaptive and Neural Computation in the School of Informatics at
 Edinburgh University.
 
+## Research
+
 My resarch interests are in the area of computational neuroscience and
 include:
 
@@ -18,6 +20,31 @@ include:
 * Applications of compartmental modelling 
 
 To find out more see my projects and code, or look up my github account.
+
+## Software
+
+### R packages I have written and maintain
+
+* [Retistruct](http://retistruct.r-forge.r-project.org/) - 
+* [geometry](http://geometry.r-forge.r-project.org/) provides R with
+  an interface to convex hull and Delaunay triangulation functions of
+  the qhull library
+* [RImageJROI](https://cran.r-project.org/web/packages/RImageJROI/index.html)
+  Provides functions to read 'ImageJ' (http://imagej.nih.gov/ij/)
+  Region of Interest (ROI) files, to plot the ROIs and to convert them
+  to 'spatstat' (http://spatstat.org/) spatial patterns.
+* RTriangle
+
+### Multiscale modelling
+
+* KappaNEURON
+
+### Miscellaneous
+
+## Other work
+
+I am energy co-ordinator for the Informatics forum -- see the
+Informatics Energy Blog.
 
 ## Contact
 
