@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css" type="text/css"/>
-    <meta name="author" content="David C Sterratt">
-  </head>
+
+  {% include head.html %}
+
   <body>
-    <h1><a href="/">David C Sterratt</a></h1>
 
-    {{ content }}
+    {% include header.html %}
 
-    <div class="footer">
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </div>
+
+    {% include footer.html %}
+
   </body>
+
 </html>
