@@ -37,7 +37,7 @@ To find out more see my projects and code, or look up my github account.
 
 ### Multiscale modelling
 
-* KappaNEURON
+* [KappaNEURON](https://github.com/davidcsterratt/KappaNEURON)
 
 ### Miscellaneous
 
