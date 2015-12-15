@@ -3,9 +3,13 @@ layout: default
 title: David C Sterratt
 ---
 
-I work as a research fellow with Douglas Armstrong at the Institute
-for Adaptive and Neural Computation in the School of Informatics at
-Edinburgh University.
+![David](images/IMG_1492_lzn-400.jpg){: style="float: right"}
+
+I am a researcher in the group of
+[Douglas Armstrong](http://www.inf.ed.ac.uk/~jda) at the
+[Institute for Adaptive and Neural Computation](http://www.anc.ed.ac.uk/)
+in the [School of Informatics](http://www.inf.ed.ac.uk/) at the
+[University of Edinburgh](http://www.ed.ac.uk/).
 
 ## Research
 
@@ -19,7 +23,19 @@ include:
 * Learning and memory, in particular asccociative networks
 * Applications of compartmental modelling 
 
-To find out more see my projects and code, or look up my github account.
+## Book
+
+![Book](images/book-cover-small.jpg){: style="float: right"}
+
+David Sterratt, Bruce Graham, Andrew Gillies and David Willshaw.  
+[Principles of Computational Modelling in Neuroscience.](http://www.cambridge.org/gb/knowledge/isbn/item6025106/?site_locale=en_GB)  
+CUP. July 2011.  
+ISBN: 9780521877954.
+
+Look inside at
+[CUP](http://www.cambridge.org/gb/knowledge/isbn/item6025106/?site_locale=en_GB).
+
+See the [book website](http://www.compneuroprinciples.org/), complete with code for many of the figures.
 
 ## Software
 
