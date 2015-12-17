@@ -36,40 +36,24 @@ Look inside at
 
 See the [book website](http://www.compneuroprinciples.org/), complete with code for many of the figures.
 
-## Software
-
-### R packages I have written and maintain
-
-* [Retistruct](http://retistruct.r-forge.r-project.org/) - 
-* [geometry](http://geometry.r-forge.r-project.org/) provides R with
-  an interface to convex hull and Delaunay triangulation functions of
-  the qhull library
-* [RImageJROI](https://cran.r-project.org/web/packages/RImageJROI/index.html)
-  Provides functions to read 'ImageJ' (http://imagej.nih.gov/ij/)
-  Region of Interest (ROI) files, to plot the ROIs and to convert them
-  to 'spatstat' (http://spatstat.org/) spatial patterns.
-* RTriangle
-
-### Multiscale modelling
-
-* [KappaNEURON](https://github.com/davidcsterratt/KappaNEURON)
-
-### Miscellaneous
-
 ## Other work
 
 I am energy co-ordinator for the Informatics forum -- see the
-Informatics Energy Blog.
+[Informatics Energy Blog](http://blog.inf.ed.ac.uk/energy/).
 
-## Contact
+## Latest blog posts
 
-Institute for Adaptive and Neural Computation  
-School of Informatics  
-The University of Edinburgh  
-10 Crichton Street  
-Edinburgh EH8 9AB  
-Scotland UK  
-David.C.Sterratt@ed.ac.uk  
-**tel:** 	+44 131 651 1739  
-**fax:** 	+44 131 650 6899
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
