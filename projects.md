@@ -86,6 +86,10 @@ software, see
 or go to the
 [Retistruct home page](http://retistruct.r-forge.r-project.org/).
 
+Related work is [IntactEye](https://github.com/hjorthmedh/IntactEye)
+(Hjorth et al., 2015), a software package that uses two orthogonal
+images of the intact retina to locate focal injections of a dye.
+
 * Sterratt, D. C., Lyngholm, D., Willshaw, D. J. and Thompson,
   I. D. (2013). ’Standard anatomical and visual space for the mouse
   retina: Computational reconstruction and transformation of flattened
@@ -93,6 +97,11 @@ or go to the
   href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002921">PLoS
   Computational Biology</a> 9(2): e1002921. <a
   href="http://dx.doi.org/doi:10.1371/journal.pcbi.1002921">doi:10.1371/journal.pcbi.1002921</a>
+
+* Hjorth, J. J. J., Savier, E., Sterratt, D. C., Reber, M. and Eglen,
+S. J. (2015). ‘Estimating the location and size of retinal injections
+from orthogonal images of an intact retina’. BMC Neuroscience 16:80
+[PDF](http://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-015-0217-8)
 
 # Learning and memory
 

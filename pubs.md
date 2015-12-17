@@ -4,7 +4,18 @@ title: Publications
 permalink: /pubs/
 ---
 
-* Hjorth, J. J. J. , Sterratt,  D. C., Cutts, C. S., Willshaw, D. J. and  Eglen, S. J. (2015). ‘Quantitative assessment of computational models  for retinotopic map  formation’ Developmental Neurobiology 75: 641–666.  <a href="http://dx.doi.org/10.1002/dneu.22241">doi:10.1002/dneu.22241</a>. Preprint available at  <a title="Abstract" href="http://arxiv.org/abs/1408.6132">arXiv:1408.6132</a>
+* Hjorth, J. J. J., Savier, E., Sterratt, D. C., Reber, M. and Eglen,
+S. J. (2015). ‘Estimating the location and size of retinal injections
+from orthogonal images of an intact retina’. BMC Neuroscience 16:80
+[PDF](http://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-015-0217-8)
+
+* Hjorth, J. J. J., Sterratt, D. C., Cutts, C. S., Willshaw, D. J. and
+  Eglen, S. J. (2015). ‘Quantitative assessment of computational
+  models for retinotopic map formation’ Developmental Neurobiology 75:
+  641–666.  <a
+  href="http://dx.doi.org/10.1002/dneu.22241">doi:10.1002/dneu.22241</a>. Preprint
+  available at <a title="Abstract"
+  href="http://arxiv.org/abs/1408.6132">arXiv:1408.6132</a>
 
 * Sterratt, D. C.,  Sorokina, O. and Armstrong,
   J. D. (2014). ‘Integration of rule-based models and compartmental
