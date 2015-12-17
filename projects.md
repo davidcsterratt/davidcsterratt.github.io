@@ -94,7 +94,7 @@ or go to the
   Computational Biology</a> 9(2): e1002921. <a
   href="http://dx.doi.org/doi:10.1371/journal.pcbi.1002921">doi:10.1371/journal.pcbi.1002921</a>
 
-# Learning and memory, in particular asccociative networks
+# Learning and memory
 
 ## Distance-dependent synaptic plasticity
 

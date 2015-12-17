@@ -17,13 +17,14 @@ include:
 
 * [Multiscale modelling of biochemical networks within compartmental
   models of neurons](/projects#multiscale-modelling-of-biochemical-networks-within-compartmental-models)
-* Development of the nervous system, in particular the development of
-  the retinocollicular (or retinotectal) mapping
-* Learning and memory, in particular asccociative networks
 
-## Book
+* [Measuring and modelling the development of topography in the nervous system](/projects#development-of-the-nervous-system),
+  including the [Retistruct software package](/projects#retistruct)
+* [Learning and memory](/projects#learning-and-memory)
 
 ![Book](images/book-cover-small.jpg){: style="float: right"}
+
+## Book
 
 David Sterratt, Bruce Graham, Andrew Gillies and David Willshaw.  
 [Principles of Computational Modelling in Neuroscience.](http://www.cambridge.org/gb/knowledge/isbn/item6025106/?site_locale=en_GB)  
