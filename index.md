@@ -1,6 +1,5 @@
 ---
 layout: default
-title: David C Sterratt
 ---
 
 ![David](images/IMG_1492_lzn-400.jpg){: style="float: right"}
