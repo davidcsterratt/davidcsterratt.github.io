@@ -5,8 +5,8 @@ title: David C Sterratt
 
 ![David](images/IMG_1492_lzn-400.jpg){: style="float: right"}
 
-I am a researcher in the group of
-[Douglas Armstrong](http://www.inf.ed.ac.uk/~jda) at the
+I am a researcher in
+[Douglas Armstrong's](http://www.inf.ed.ac.uk/~jda) group at the
 [Institute for Adaptive and Neural Computation](http://www.anc.ed.ac.uk/)
 in the [School of Informatics](http://www.inf.ed.ac.uk/) at the
 [University of Edinburgh](http://www.ed.ac.uk/).
@@ -16,12 +16,11 @@ in the [School of Informatics](http://www.inf.ed.ac.uk/) at the
 My resarch interests are in the area of computational neuroscience and
 include:
 
-* Integration of rule-based models of biochemical networks with
-  compartmental models.
+* [Multiscale modelling of biochemical networks within compartmental
+  models of neurons](/projects#multiscale-modelling-of-biochemical-networks-within-compartmental-models)
 * Development of the nervous system, in particular the development of
   the retinocollicular (or retinotectal) mapping
 * Learning and memory, in particular asccociative networks
-* Applications of compartmental modelling 
 
 ## Book
 
