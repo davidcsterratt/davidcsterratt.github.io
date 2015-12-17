@@ -35,10 +35,13 @@ Look inside at
 
 See the [book website](http://www.compneuroprinciples.org/), complete with code for many of the figures.
 
-## Other work
+## Other things
 
-I am energy coordinator for the Informatics forum -- see the
+* I am energy coordinator for the Informatics forum -- see the
 [Informatics Energy Blog](http://blog.inf.ed.ac.uk/energy/).
+* I have
+  [a history of the University of Edinburgh's Forrest Hill building](http://www.sterratt.me.uk/forrest-hill-history)
+  on my personal website.
 
 ## Latest blog posts
 
