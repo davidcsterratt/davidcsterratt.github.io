@@ -12,7 +12,7 @@ in the [School of Informatics](http://www.inf.ed.ac.uk/) at the
 
 ## Research
 
-My resarch interests are in the area of computational neuroscience and
+My research interests are in the area of computational neuroscience and
 include:
 
 * [Multiscale modelling of biochemical networks within compartmental
@@ -37,7 +37,7 @@ See the [book website](http://www.compneuroprinciples.org/), complete with code 
 
 ## Other work
 
-I am energy co-ordinator for the Informatics forum -- see the
+I am energy coordinator for the Informatics forum -- see the
 [Informatics Energy Blog](http://blog.inf.ed.ac.uk/energy/).
 
 ## Latest blog posts
@@ -56,3 +56,8 @@ I am energy co-ordinator for the Informatics forum -- see the
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
+
+<!--  LocalWords:  Retistruct retistruct Sterratt Willshaw Blog blog
+ -->
+<!--  LocalWords:  ul li href prepend baseurl endfor rss
+ -->

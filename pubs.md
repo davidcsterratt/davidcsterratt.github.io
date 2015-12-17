@@ -26,7 +26,7 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
 
 * Willshaw, D. J., Sterratt, D. C. and Teriakidis, A. (2014). ‘Analysis of local and global topographic order in mouse retinocollicular maps’. Journal of Neuroscience 34:1791-1805. <a href="http://dx.doi.org/10.1523/JNEUROSCI.5602-12.2014">doi:10.1523/JNEUROSCI.5602-12.2014</a> <a href="http://www.jneurosci.org/content/34/5/1791.full.pdf+html">[PDF]</a>
 
-* Sterratt, D. C. and Hjorth, J. J. J. (2013). ‘Retinocollicular mapping explained?’ <a href="http://journals.cambridge.org/action/displayJournal?jid=vns">Visual Neuroscience</a><br />30:125-128. <a href="http://dx.doi.org/10.1017/S0952523813000254">doi:10.1017/S0952523813000254</a> <a href="http://journals.cambridge.org/repo_A90JlXNl">[PDF]</a>
+* Sterratt, D. C. and Hjorth, J. J. J. (2013). ‘Retinocollicular mapping explained?’ <a href="http://journals.cambridge.org/action/displayJournal?jid=vns">Visual Neuroscience</a>30:125-128. <a href="http://dx.doi.org/10.1017/S0952523813000254">doi:10.1017/S0952523813000254</a> <a href="http://journals.cambridge.org/repo_A90JlXNl">[PDF]</a>
 
 * Sterratt, D. C. (2013). ‘On the Importance of Countergradients for the Development of Retinotopy: Insights from a Generalised Gierer Model’. <a href="http://www.plosone.org">PLoS ONE</a> 8:e67096. <a href="http://dx.doi.org/10.1371/journal.pone.0067096">doi:10.1371/journal.pone.0067096 </a> <a href="http://www.plosone.org/article/fetchObject.action;jsessionid=709C56F55549DE602C90FA4DBF8882BD?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0067096&amp;representation=PDF">[PDF]</a>
 
