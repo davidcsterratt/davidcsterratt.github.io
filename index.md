@@ -17,7 +17,6 @@ include:
 
 * [Multiscale modelling of biochemical networks within compartmental
   models of neurons](/projects#multiscale-modelling-of-biochemical-networks-within-compartmental-models)
-
 * [Measuring and modelling the development of topography in the nervous system](/projects#development-of-the-nervous-system),
   including the [Retistruct software package](/projects#retistruct)
 * [Learning and memory](/projects#learning-and-memory)
