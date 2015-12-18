@@ -24,3 +24,28 @@ permalink: /code/
 
 * [KappaNEURON](https://github.com/davidcsterratt/KappaNEURON)
   integrates the SpatialKappa rule-based simulator into NEURON.
+
+# NEURON-related
+
+* My [NEURON hoc library](https://github.com/davidcsterratt/dcs-hoc),
+  including PointProcessorDistrubutor, as used in [Sterratt et
+  al. (2012)]({{ site.url }}/{{ site.baseurl }}/pubs#SterEtal12spin).
+* [HOC and NMODL Emacs modes for NEURON](https://github.com/davidcsterratt/neuron-emacs)
+
+# Miscellaneous hacks
+
+* [Italic small caps in Times Roman for LaTeX](https://github.com/davidcsterratt/latex-times-itsc) 
+* [Winnow](http://winnow.sourceforge.net/) is a program that collects
+  Journal Table of Contents alerts from PubMed and rates them
+  according to their relevance. It was actually written mostly by
+  George Chambers as part of his Computer Science undergraduate
+  project.
+
+<!--  LocalWords:  permalink Retistruct qhull RImageJROI ImageJ ROIs
+ -->
+<!--  LocalWords:  spatstat RTriangle Shewchuk's KappaNEURON hoc
+ -->
+<!--  LocalWords:  SpatialKappa PointProcessorDistrubutor Sterratt
+ -->
+<!--  LocalWords:  baseurl SterEtal NMODL LaTeX PubMed
+ -->

@@ -30,9 +30,21 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
 
 * Sterratt, D. C. (2013). ‘On the Importance of Countergradients for the Development of Retinotopy: Insights from a Generalised Gierer Model’. <a href="http://www.plosone.org">PLoS ONE</a> 8:e67096. <a href="http://dx.doi.org/10.1371/journal.pone.0067096">doi:10.1371/journal.pone.0067096 </a> <a href="http://www.plosone.org/article/fetchObject.action;jsessionid=709C56F55549DE602C90FA4DBF8882BD?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0067096&amp;representation=PDF">[PDF]</a>
 
-* Sterratt, D. C., Lyngholm, D., Willshaw, D. J. and Thompson, I. D. (2013). ’Standard anatomical and visual space for the mouse retina: Computational reconstruction and transformation of flattened retinae with the Retistruct Package’. <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002921">PLoS Computational Biology</a> 9(2):           e1002921. <a href="http://dx.doi.org/doi:10.1371/journal.pcbi.1002921">doi:10.1371/journal.pcbi.1002921</a>
+* Sterratt, D. C., Lyngholm, D., Willshaw, D. J. and Thompson,
+  I. D. (2013). ’Standard anatomical and visual space for the mouse
+  retina: Computational reconstruction and transformation of flattened
+  retinae with the Retistruct Package’. <a
+  href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002921">PLoS
+  Computational Biology</a> 9(2): e1002921. <a
+  href="http://dx.doi.org/doi:10.1371/journal.pcbi.1002921">doi:10.1371/journal.pcbi.1002921</a>
 
-* Sterratt, D. C., Groen, M. R., Meredith, R. M. and van Ooyen, A. (2012). ‘Spine calcium transients induced by synaptically-evoked action potentials can predict synapse location and establish synaptic democracy’. <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002545">PLoS Computational Biology</a> 8(6): e1002545. <a href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>
+* {: SterEtal12spin} Sterratt, D. C., Groen, M. R., Meredith,
+  R. M. and van Ooyen, A. (2012). ‘Spine calcium transients induced by
+  synaptically-evoked action potentials can predict synapse location
+  and establish synaptic democracy’. <a
+  href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002545">PLoS
+  Computational Biology</a> 8(6): e1002545. <a
+  href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>
  
 * Sterratt, D., Graham, B., Gillies, A. and Willshaw, D. (2011). <em><a href="http://compneuroprinciples.org/">Principles of Computational Modelling in Neuroscience.</a></em> Cambridge University Press
  
