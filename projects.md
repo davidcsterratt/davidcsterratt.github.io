@@ -177,7 +177,7 @@ scaling synapses appropriately for distance.
   democracy need a ruler?’ <a
   href="http://www.elsevier.com/locate/neucom">Neurocomputing</a> 58-60:437-442.  <a
   href="http://dx.doi.org/10.1016/j.neucom.2004.01.078">doi:10.1016/j.neucom.2004.01.078</a>. <a
-  href="/sites/sterratt.me.uk/files/cns2003.pdf">[PDF]</a>
+  href="/files/cns2003.pdf">[PDF]</a>
 
 * Sterratt, D. C.  and van Ooyen, A. (2002).  ‘Does morphology
   influence temporal plasticity?’ In J. R. Dorronsoro, ed., Artificial
@@ -186,13 +186,13 @@ scaling synapses appropriately for distance.
   Notes in Computer Science</a>, pp. 186-191. <a
   href="http://www.springer.de">Springer-Verlag</a>, Berlin,
   Heidelberg, New York. <a
-  href="/sites/sterratt.me.uk/files/do-delays-matter.pdf">[PDF]</a>
+  href="/files/do-delays-matter.pdf">[PDF]</a>
 
 * Sterratt, D. C. and Willshaw, D. (2008). ‘Inhomogeneities in
   heteroassociative memories with linear learning rules’ <a
   href="http://neco.mitpress.org/">Neural Computation</a>
   20:311-344. <a
-  href="/sites/sterratt.me.uk/files/inhomog-assoc-net.pdf">[Preprint]</a>
+  href="/files/inhomog-assoc-net.pdf">[Preprint]</a>
 
 ## Learning and forgetting in associative memories
 
@@ -229,7 +229,7 @@ by a mixture of inhibition and thresholds.
   heteroassociative memories with linear learning rules’ <a
   href="http://neco.mitpress.org/">Neural Computation</a>
   20:311-344. <a
-  href="/sites/sterratt.me.uk/files/inhomog-assoc-net.pdf">[Preprint]</a>
+  href="/files/inhomog-assoc-net.pdf">[Preprint]</a>
 
 ## Familiarity memory
 
