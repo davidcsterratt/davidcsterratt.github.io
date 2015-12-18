@@ -38,7 +38,7 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
   Computational Biology</a> 9(2): e1002921. <a
   href="http://dx.doi.org/doi:10.1371/journal.pcbi.1002921">doi:10.1371/journal.pcbi.1002921</a>
 
-* {: #SterEtal12spin} Sterratt, D. C., Groen, M. R., Meredith,
+* {:ref-name: #SterEtal12spin} Sterratt, D. C., Groen, M. R., Meredith,
   R. M. and van Ooyen, A. (2012). ‘Spine calcium transients induced by
   synaptically-evoked action potentials can predict synapse location
   and establish synaptic democracy’. <a
