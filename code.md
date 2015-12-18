@@ -29,7 +29,7 @@ permalink: /code/
 
 * My [NEURON hoc library](https://github.com/davidcsterratt/dcs-hoc),
   including PointProcessorDistrubutor, as used in [Sterratt et
-  al. (2012)]({{ site.url }}/{{ site.baseurl }}/pubs#SterEtal12spin).
+  al. (2012)](/pubs#SterEtal12spin).
 * [HOC and NMODL Emacs modes for NEURON](https://github.com/davidcsterratt/neuron-emacs)
 
 # Miscellaneous hacks
