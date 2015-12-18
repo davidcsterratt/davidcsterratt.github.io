@@ -8,10 +8,10 @@ permalink: /projects/
 _In collaboration with Professor J Douglas Armstrong and Dr Oksana
 Sorokina (Edinburgh)._
 
-<figure>
-<img src="{{site.url}}/images/neuron_kappa_Very_short_6000-400.png" />
-<figcaption>Schematic diagram of retinotopy.</figcaption>
-</figure>
+<figure> <img
+src="{{site.url}}/images/neuron_kappa_Very_short_6000-400.png" />
+<figcaption>Multiscale simulation of synaptic molecules produced with
+KappaNEURON.</figcaption> </figure>
 
 Synaptic plasticity depends on the interaction between electrical
 activity in neurons and the synaptic proteome, the collection of over
@@ -24,7 +24,7 @@ between the combinatorially large number of protein complexes in the
 postsynaptic proteome to be expressed straightforwardly.  Simulations
 of rule-based models are stochastic and thus can deal with the small
 copy numbers of proteins and complexes in the PSD. Compartmental
-models of neu- rons are expressed as systems of coupled ordinary
+models of neurons are expressed as systems of coupled ordinary
 differential equations and solved deterministically. We present an
 algorithm which incorporates stochastic rule-based models into
 deterministic compartmental models and demonstrate an implementation
@@ -264,5 +264,7 @@ capacity isn't so great - but still better than for recall.
  -->
 <!--  LocalWords:  Savier BMC Arjen Ooyen Groen NMDA Neurocomputing
  -->
-<!--  LocalWords:  Dorronsoro ICANN Verlag SNR Rossum Greve
+<!--  LocalWords:  Dorronsoro ICANN Verlag SNR Rossum Greve Oksana
+ -->
+<!--  LocalWords:  proteome PSD KappaNEURON SpatialKappa
  -->
