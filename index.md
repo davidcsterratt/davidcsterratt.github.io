@@ -46,7 +46,7 @@ See the [book website](http://www.compneuroprinciples.org/), complete with code 
 ## Latest blog posts
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:2 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -57,7 +57,7 @@ See the [book website](http://www.compneuroprinciples.org/), complete with code 
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p><a href="{{ "/blog" | prepend: site.baseurl }}">Read more blog posts</a></p>
 
 
 <!--  LocalWords:  Retistruct retistruct Sterratt Willshaw Blog blog
