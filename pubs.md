@@ -4,6 +4,21 @@ title: Publications
 permalink: /pubs/
 ---
 
+* Sterratt, D. C., Sorokina, O. and Armstrong, J. D. (in
+  press). ‘Integration of rule-based models and compartmental models
+  of neurons’. Lecture Notes in Bioinformatics 7699.  Presented to the
+  Third International Workshop on Hybrid Systems Biology Vienna,
+  Austria, July 23-24, 2014 at the International Conference on
+  Computer-Aided Verification 2014.  Preprint at <a title="Abstract"
+  href="http://arxiv.org/abs/1411.4980">arXiv:1411.4980</a>
+
+* Sterratt, D. C. (2015). Invited articles on ‘Nernst Equation’,
+  ‘Goldman-Hodgkin-Katz Equations’, ‘Gating Current’, ‘Nomenclature of
+  Ion Channels (IUPHAR Scheme)’ and ‘Q10: the Effect of Temperature on
+  Ion Channel Kinetics’. In Jaeger, D. and Jung, R.,
+  eds. (2015). _Encyclopedia of Computational Neuro science_. Springer
+  New York
+
 * Hjorth, J. J. J., Savier, E., Sterratt, D. C., Reber, M. and Eglen,
 S. J. (2015). ‘Estimating the location and size of retinal injections
 from orthogonal images of an intact retina’. BMC Neuroscience 16:80
@@ -16,13 +31,6 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
   href="http://dx.doi.org/10.1002/dneu.22241">doi:10.1002/dneu.22241</a>. Preprint
   available at <a title="Abstract"
   href="http://arxiv.org/abs/1408.6132">arXiv:1408.6132</a>
-
-* Sterratt, D. C.,  Sorokina, O. and Armstrong,
-  J. D. (2014). ‘Integration of rule-based models and compartmental
-  models of neurons’. Presented to the Third International Workshop on
-  Hybrid Systems Biology  Vienna, Austria, July 23-24, 2014 at the
-  International Conference on  Computer-Aided Verification 2014. To be
-  published in the proceedings; now available at <a title="Abstract" href="http://arxiv.org/abs/1411.4980">arXiv:1411.4980</a>
 
 * Willshaw, D. J., Sterratt, D. C. and Teriakidis, A. (2014). ‘Analysis of local and global topographic order in mouse retinocollicular maps’. Journal of Neuroscience 34:1791-1805. <a href="http://dx.doi.org/10.1523/JNEUROSCI.5602-12.2014">doi:10.1523/JNEUROSCI.5602-12.2014</a> <a href="http://www.jneurosci.org/content/34/5/1791.full.pdf+html">[PDF]</a>
 

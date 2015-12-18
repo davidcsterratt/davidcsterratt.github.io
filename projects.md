@@ -5,15 +5,38 @@ permalink: /projects/
 ---
 # Multiscale modelling of biochemical networks within compartmental models
 
-Integration of rule-based models of biochemical networks with
-compartmental models
+_In collaboration with Professor J Douglas Armstrong and Dr Oksana
+Sorokina (Edinburgh)._
 
-* Sterratt, D. C., Sorokina, O. and Armstrong,
-  J. D. (2014). ‘Integration of rule-based models and compartmental
-  models of neurons’. Presented to the Third International Workshop on
-  Hybrid Systems Biology Vienna, Austria, July 23-24, 2014 at the
-  International Conference on Computer-Aided Verification 2014. To be
-  published in the proceedings; now available at <a title="Abstract"
+<figure>
+<img src="{{site.url}}/images/neuron_kappa_Very_short_6000-400.png" />
+<figcaption>Schematic diagram of retinotopy.</figcaption>
+</figure>
+
+Synaptic plasticity depends on the interaction between electrical
+activity in neurons and the synaptic proteome, the collection of over
+1000 proteins in the post-synaptic density (PSD) of synapses. To
+construct models of synaptic plasticity with realistic numbers of
+proteins, we aim to combine rule-based models of molecular
+interactions in the synaptic proteome with compartmental models of the
+electrical activity of neurons.  Rule-based models allow interactions
+between the combinatorially large number of protein complexes in the
+postsynaptic proteome to be expressed straightforwardly.  Simulations
+of rule-based models are stochastic and thus can deal with the small
+copy numbers of proteins and complexes in the PSD. Compartmental
+models of neu- rons are expressed as systems of coupled ordinary
+differential equations and solved deterministically. We present an
+algorithm which incorporates stochastic rule-based models into
+deterministic compartmental models and demonstrate an implementation
+([KappaNEURON](https://github.com/davidcsterratt/KappaNEURON)) of this
+hybrid system using the SpatialKappa and NEURON simulators.
+
+* Sterratt, D. C., Sorokina, O. and Armstrong, J. D. (in
+  press). ‘Integration of rule-based models and compartmental models
+  of neurons’. Lecture Notes in Bioinformatics 7699.  Presented to the
+  Third International Workshop on Hybrid Systems Biology Vienna,
+  Austria, July 23-24, 2014 at the International Conference on
+  Computer-Aided Verification 2014.  Preprint at <a title="Abstract"
   href="http://arxiv.org/abs/1411.4980">arXiv:1411.4980</a>
 
 # Development of the nervous system
