@@ -9,7 +9,10 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <img src="/images/{{ page.image }}" style="float: right"/>{{ content }}
+    {% if page.image %}
+      <img src="/images/{{ page.image }}" style="float: right"/>
+    {% endif %}
+    {{ content }}
   </div>
 
 </article>
