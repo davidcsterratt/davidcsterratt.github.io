@@ -216,8 +216,8 @@ synaptic learning rules and synaptic weight decay. The networks learn
 newly presented memories and forget old ones. The mathematical
 formulation of these networks also allows the effects of
 distant-dependent attenuation and stochastic transmission to be
-modelled. For an overview of the method, see these slides from
-Computational Neuroscience 2006
+modelled. For an overview of the method, see [these slides from
+Computational Neuroscience 2006](/files/cns2006.pdf).
 
 In collaboration with Dr Jesus Cortes (Granada) and Dr Mark van Rossum
 (Edinburgh), I am using mean-field analysis and simulation to
