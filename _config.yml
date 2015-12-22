@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   on detailed models of synapses, development of retinotopic maps and
   associaitive memory. Also Energy Co-ordinator in the Informatics
   Forum.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sterratt" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 # twitter_username: DavidSterratt
 github_username: davidcsterratt

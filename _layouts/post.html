@@ -10,7 +10,7 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {% if page.image %}
-      <img src="/images/{{ page.image }}" style="float: right"/>
+      <img src="{{ site.baseurl }}/images/{{ page.image }}" style="float: right"/>
     {% endif %}
     {{ content }}
   </div>

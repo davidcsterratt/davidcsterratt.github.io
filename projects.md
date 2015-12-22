@@ -9,7 +9,7 @@ _In collaboration with Professor J Douglas Armstrong and Dr Oksana
 Sorokina (Edinburgh)._
 
 <figure> <img
-src="{{site.url}}/images/neuron_kappa_Very_short_6000-400.png" />
+src="{{site.baseurl}}/images/neuron_kappa_Very_short_6000-400.png" />
 <figcaption>Multiscale simulation of synaptic molecules produced with
 KappaNEURON.</figcaption> </figure>
 
@@ -47,7 +47,7 @@ _In collaboration with Professor David Willshaw (Edinburgh) and
 Drs Stephen Eglen and Johannes Hjorth (Cambridge)._
 
 <figure>
-<img src="{{site.url}}/images/retinotopy2-400.png" />
+<img src="{{site.baseurl}}/images/retinotopy2-400.png" />
 <figcaption>Schematic diagram of retinotopy.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ retinotopy.
 ## Retistruct
 
 <figure>
-<img src="{{site.url}}/images/retistruct-400.png" />
+<img src="{{site.baseurl}}/images/retistruct-400.png" />
 <figcaption>Reconstructing a retina in Retistruct</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
 ## Distance-dependent synaptic plasticity
 
 <figure>
-<img src="{{site.url}}/images/ddsp-fig2.png"/>
+<img src="{{site.baseurl}}/images/ddsp-fig2.png"/>
 <figcaption>Signals from spines in a model CA1 neuron</figcaption>
 </figure>
 
@@ -196,7 +196,7 @@ scaling synapses appropriately for distance.
 
 ## Learning and forgetting in associative memories
 
-<figure> <img src="{{site.url}}/images/forgetting-400.png" />
+<figure> <img src="{{site.baseurl}}/images/forgetting-400.png" />
 <figcaption>Results of a model of forgetting in which the rate at
 which synapses are weakened can be adjusted. <strong>Top</strong> The
 Signal to Noise Ratio (SNR) is higher for better recall, and decreases
