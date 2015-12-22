@@ -42,15 +42,15 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
   I. D. (2013). ’Standard anatomical and visual space for the mouse
   retina: Computational reconstruction and transformation of flattened
   retinae with the Retistruct Package’. <a
-  href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002921">PLoS
+  href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002921">PLoS
   Computational Biology</a> 9(2): e1002921. <a
   href="http://dx.doi.org/doi:10.1371/journal.pcbi.1002921">doi:10.1371/journal.pcbi.1002921</a>
 
-* {:ref-name: #SterEtal12spin} Sterratt, D. C., Groen, M. R., Meredith,
+* {: #SterEtal12spin} Sterratt, D. C., Groen, M. R., Meredith,
   R. M. and van Ooyen, A. (2012). ‘Spine calcium transients induced by
   synaptically-evoked action potentials can predict synapse location
   and establish synaptic democracy’. <a
-  href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002545">PLoS
+  href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002545">PLoS
   Computational Biology</a> 8(6): e1002545. <a
   href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>
  
@@ -58,18 +58,21 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
  
 * Greve, A., Sterratt, D. C., Donaldson, D. I., Willshaw, D. J. and Rossum, M. C. W. (2009) ‘Optimal learning rules for familiarity detection’ <a href="http://www.springerlink.com/content/100465/">Biological Cybernetics</a> 100:11-19. <a href="http://dx.doi.org/10.1007/s00422-008-0275-4">doi:10.1007/s00422-008-0275-4</a>
  
-* Sterratt, D. C. and Willshaw, D. (2008). ‘Inhomogeneities in heteroassociative memories with linear   learning rules’ <a href="http://neco.mitpress.org/">Neural Computation</a> 20:311-344. <a href="/files/inhomog-assoc-net.pdf">[Preprint]</a>
+* Sterratt, D. C. and Willshaw, D. (2008). ‘Inhomogeneities in heteroassociative memories with linear   learning rules’ <a href="http://neco.mitpress.org/">Neural Computation</a> 20:311-344. <a href="{{site.baseurl}}/files/inhomog-assoc-net.pdf">[Preprint]</a>
 
-* Sterratt, D. C., Auzinger, W. et al. (2005).  ‘An introduction to      MATLAB for neuroscience research’. Electronic document released under      the GNU Free Documentation License. <a href="/files/matlab-neuro.pdf">[PDF]</a> <a href="/files/matlab-neuro.tgz">[Source, TGZ]</a>
+* Sterratt, D. C., Auzinger, W. et al. (2005).  ‘An introduction to      MATLAB for neuroscience research’. Electronic document released under      the GNU Free Documentation License. <a href="{{site.baseurl}}/files/matlab-neuro.pdf">[PDF]</a> <a href="{{site.baseurl}}/files/matlab-neuro.tgz">[Source, TGZ]</a>
 
-* Sterratt,   D. C.   and   van   Ooyen,   A. (2004).       ‘Does   a      dendritic  democracy  need  a  ruler?’    <a href="http://www.elsevier.com/locate/neucom">Neurocomputing</a> 58-60:437-442.      <a href="http://dx.doi.org/10.1016/j.neucom.2004.01.078">doi:10.1016/j.neucom.2004.01.078</a>. <a href="/files/cns2003.pdf">[PDF]</a> 
+* Sterratt, D. C.  and van Ooyen, A. (2004).  ‘Does a dendritic
+  democracy need a ruler?’ Neurocomputing 58-60:437-442.  <a
+  href="http://dx.doi.org/10.1016/j.neucom.2004.01.078">doi:10.1016/j.neucom.2004.01.078</a>. <a
+  href="{{site.baseurl}}/files/cns2003.pdf">[PDF]</a>
 
 * Gillies, A. J. and Sterratt, D. C. (2003).  ‘Neuron tutorial’.  Web      document. <a href="http://www.anc.ed.ac.uk/school/neuron/">http://www.anc.ed.ac.uk/school/neuron/</a> 
 
-* Sterratt,  D. C.  and  van  Ooyen,  A. (2002).   ‘Does  morphology      influence temporal plasticity?’ In J. R. Dorronsoro, ed., Artificial Neural Networks  --  ICANN  2002,  vol.  2415  of  <a href="http://www.springeronline.com/sgw/cda/frontpage/0,10735,3-164-0-0-0,00.html">Lecture  Notes  in  Computer Science</a>,  pp.  186-191.  <a href="http://www.springer.de">Springer-Verlag</a>,  Berlin,  Heidelberg,  New  York.      <a href="/files/do-delays-matter.pdf">[PDF]</a> 
+* Sterratt,  D. C.  and  van  Ooyen,  A. (2002).   ‘Does  morphology      influence temporal plasticity?’ In J. R. Dorronsoro, ed., Artificial Neural Networks  --  ICANN  2002,  vol.  2415  of  <a href="http://www.springeronline.com/sgw/cda/frontpage/0,10735,3-164-0-0-0,00.html">Lecture  Notes  in  Computer Science</a>,  pp.  186-191.  <a href="http://www.springer.de">Springer-Verlag</a>,  Berlin,  Heidelberg,  New  York.      <a href="{{site.baseurl}}/files/do-delays-matter.pdf">[PDF]</a> 
 
-* Sterratt,   D. C. (2001b).       Spikes,   synchrony,   sequences   and Schistocerca’s  sense  of  smell.   Ph.D.  thesis,  University  of  Edinburgh.      <a href="/files/thesis.pdf">[PDF]</a> 
+* Sterratt,   D. C. (2001b).       Spikes,   synchrony,   sequences   and Schistocerca’s  sense  of  smell.   Ph.D.  thesis,  University  of  Edinburgh.      <a href="{{site.baseurl}}/files/thesis.pdf">[PDF]</a> 
 
-* Sterratt, D. C. (2001a).   ‘Locust olfaction: Synchronous oscillations      in excitatory and inhibitory groups of spiking neurons’.  In S. Wermter,      J. Austin  and  D. Willshaw,  eds.,  Emergent  Neural  Computational Architectures  Based  on  Neuroscience,  vol.  2036  of  <a href="http://www.springer.de/comp/lncs/index.html">Lecture  Notes  in Artificial Intelligence</a>,  pp.  270-284.  <a href="http://www.springer.de">Springer-Verlag</a>,  Berlin  Heidelberg.      <a href="/files/emernet2000.pdf">[PDF]</a> 
+* Sterratt, D. C. (2001a).   ‘Locust olfaction: Synchronous oscillations      in excitatory and inhibitory groups of spiking neurons’.  In S. Wermter,      J. Austin  and  D. Willshaw,  eds.,  Emergent  Neural  Computational Architectures  Based  on  Neuroscience,  vol.  2036  of  <a href="http://www.springer.de/comp/lncs/index.html">Lecture  Notes  in Artificial Intelligence</a>,  pp.  270-284.  <a href="http://www.springer.de">Springer-Verlag</a>,  Berlin  Heidelberg.      <a href="{{site.baseurl}}/files/emernet2000.pdf">[PDF]</a> 
 
-* Sterratt,  D. C. (1999).     ‘Is  a  biological  temporal  learning  rule      compatible   with   learning   synfire   chains?’      In   ICANN99:  Ninth International  Conference  on  Artificial  Neural  Networks,  pp.  551-556.      Institute of Electrical Engineers, London. <a href="/files/icann99.pdf">[PDF]</a> 
+* Sterratt,  D. C. (1999).     ‘Is  a  biological  temporal  learning  rule      compatible   with   learning   synfire   chains?’      In   ICANN99:  Ninth International  Conference  on  Artificial  Neural  Networks,  pp.  551-556.      Institute of Electrical Engineers, London. <a href="{{site.baseurl}}/files/icann99.pdf">[PDF]</a> 

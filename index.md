@@ -5,9 +5,9 @@ layout: default
 ![David](images/IMG_1492_lzn-400.jpg){: style="float: right"}
 
 I am a researcher in
-[Douglas Armstrong's](http://www.inf.ed.ac.uk/~jda) group at the
+[Douglas Armstrong's](http://homepages.inf.ed.ac.uk/jda/) group at the
 [Institute for Adaptive and Neural Computation](http://www.anc.ed.ac.uk/)
-in the [School of Informatics](http://www.inf.ed.ac.uk/) at the
+in the [School of Informatics](http://www.ed.ac.uk/informatics/) at the
 [University of Edinburgh](http://www.ed.ac.uk/).
 
 ## Research
@@ -16,10 +16,10 @@ My research interests are in the area of computational neuroscience and
 include:
 
 * [Multiscale modelling of biochemical networks within compartmental
-  models of neurons](/projects#multiscale-modelling-of-biochemical-networks-within-compartmental-models)
-* [Measuring and modelling the development of topography in the nervous system](/projects#development-of-the-nervous-system),
-  including the [Retistruct software package](/projects#retistruct)
-* [Learning and memory](/projects#learning-and-memory)
+  models of neurons]({{site.baseurl}}/projects/#multiscale-modelling-of-biochemical-networks-within-compartmental-models)
+* [Measuring and modelling the development of topography in the nervous system]({{site.baseurl}}/projects/#development-of-the-nervous-system),
+  including the [Retistruct software package]({{site.baseurl}}/projects/#retistruct)
+* [Learning and memory]({{site.baseurl}}/projects#learning-and-memory)
 
 ![Book](images/book-cover-small.jpg){: style="float: right"}
 
@@ -57,7 +57,7 @@ See the [book website](http://www.compneuroprinciples.org/), complete with code 
     {% endfor %}
   </ul>
 
-  <p><a href="{{ "/blog" | prepend: site.baseurl }}">Read more blog posts</a></p>
+  <p><a href="{{ "/blog/" | prepend: site.baseurl }}">Read more blog posts</a></p>
 
 
 <!--  LocalWords:  Retistruct retistruct Sterratt Willshaw Blog blog

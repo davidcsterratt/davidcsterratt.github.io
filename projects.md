@@ -116,7 +116,7 @@ We have developed Retistruct, a program to morph a flat surface with
 incisions (a dissected retina) onto a curvilinear surface (the
 original retinal shape). For more details and to download the
 software, see
-[the paper](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002921)
+[the paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002921)
 or go to the
 [Retistruct home page](http://retistruct.r-forge.r-project.org/).
 
@@ -169,15 +169,14 @@ scaling synapses appropriately for distance.
   A. (2012). ‘Spine calcium transients induced by synaptically-evoked
   action potentials can predict synapse location and establish
   synaptic democracy’. <a
-  href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002545">PLoS
+  href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002545">PLoS
   Computational Biology</a> 8(6): e1002545. <a
   href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>
 
 * Sterratt, D. C.  and van Ooyen, A. (2004).  ‘Does a dendritic
-  democracy need a ruler?’ <a
-  href="http://www.elsevier.com/locate/neucom">Neurocomputing</a> 58-60:437-442.  <a
+  democracy need a ruler?’ Neurocomputing 58-60:437-442.  <a
   href="http://dx.doi.org/10.1016/j.neucom.2004.01.078">doi:10.1016/j.neucom.2004.01.078</a>. <a
-  href="/files/cns2003.pdf">[PDF]</a>
+  href="{{site.baseurl}}/files/cns2003.pdf">[PDF]</a>
 
 * Sterratt, D. C.  and van Ooyen, A. (2002).  ‘Does morphology
   influence temporal plasticity?’ In J. R. Dorronsoro, ed., Artificial
@@ -186,13 +185,13 @@ scaling synapses appropriately for distance.
   Notes in Computer Science</a>, pp. 186-191. <a
   href="http://www.springer.de">Springer-Verlag</a>, Berlin,
   Heidelberg, New York. <a
-  href="/files/do-delays-matter.pdf">[PDF]</a>
+  href="{{site.baseurl}}/files/do-delays-matter.pdf">[PDF]</a>
 
 * Sterratt, D. C. and Willshaw, D. (2008). ‘Inhomogeneities in
   heteroassociative memories with linear learning rules’ <a
   href="http://neco.mitpress.org/">Neural Computation</a>
   20:311-344. <a
-  href="/files/inhomog-assoc-net.pdf">[Preprint]</a>
+  href="{{site.baseurl}}/files/inhomog-assoc-net.pdf">[Preprint]</a>
 
 ## Learning and forgetting in associative memories
 
@@ -217,7 +216,7 @@ newly presented memories and forget old ones. The mathematical
 formulation of these networks also allows the effects of
 distant-dependent attenuation and stochastic transmission to be
 modelled. For an overview of the method, see [these slides from
-Computational Neuroscience 2006](/files/cns2006.pdf).
+Computational Neuroscience 2006]({{site.baseurl}}/files/cns2006.pdf).
 
 In collaboration with Dr Jesus Cortes (Granada) and Dr Mark van Rossum
 (Edinburgh), I am using mean-field analysis and simulation to
@@ -229,7 +228,7 @@ by a mixture of inhibition and thresholds.
   heteroassociative memories with linear learning rules’ <a
   href="http://neco.mitpress.org/">Neural Computation</a>
   20:311-344. <a
-  href="/files/inhomog-assoc-net.pdf">[Preprint]</a>
+  href="{{site.baseurl}}/files/inhomog-assoc-net.pdf">[Preprint]</a>
 
 ## Familiarity memory
 
