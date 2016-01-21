@@ -12,8 +12,9 @@ I've just given a talk to the
 [gWidgets2RGtk2](https://cran.r-project.org/web/packages/gWidgets2RGtk2/)
 packages, which provide a GUI system for
 [R](https://www.r-project.org/). The
-(Rmarkdown)[http://rmarkdown.rstudio.com/] source for the [slides]({{site.baseurl}}/files/inhomog-assoc-net.pdf">) and
-code examples [available from github]().
+[Rmarkdown](http://rmarkdown.rstudio.com/) source for the
+[slides]({{site.baseurl}}/files/edinbr-gWidgets2-2016-01-20.html) and
+code examples are [available from github](https://github.com/davidcsterratt/edinbr-gWidgets).
 
 
 <!--  LocalWords:  gWidgets Verzani's RGtk Rmarkdown baseurl github
