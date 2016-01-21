@@ -52,7 +52,8 @@ from orthogonal images of an intact retina’. BMC Neuroscience 16:80
   and establish synaptic democracy’. <a
   href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002545">PLoS
   Computational Biology</a> 8(6): e1002545. <a
-  href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>
+  href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>   <a
+  href="http://senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=144490">[Code on ModelDB]</a>
  
 * Sterratt, D., Graham, B., Gillies, A. and Willshaw, D. (2011). <em><a href="http://compneuroprinciples.org/">Principles of Computational Modelling in Neuroscience.</a></em> Cambridge University Press
  

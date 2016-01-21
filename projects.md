@@ -171,7 +171,8 @@ scaling synapses appropriately for distance.
   synaptic democracy’. <a
   href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002545">PLoS
   Computational Biology</a> 8(6): e1002545. <a
-  href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>
+  href="http://dx.doi.org/10.1371/journal.pcbi.1002545">doi:10.1371/journal.pcbi.1002545</a>   <a
+  href="http://senselab.med.yale.edu/ModelDB/ShowModel.cshtml?model=144490">[Code on ModelDB]</a>
 
 * Sterratt, D. C.  and van Ooyen, A. (2004).  ‘Does a dendritic
   democracy need a ruler?’ Neurocomputing 58-60:437-442.  <a
