@@ -4,25 +4,29 @@ title: Publications
 permalink: /pubs/
 ---
 
-* Sterratt, D. C., Sorokina, O. and Armstrong, J. D. (in
-  press). ‘Integration of rule-based models and compartmental models
-  of neurons’. Lecture Notes in Bioinformatics 7699.  Presented to the
-  Third International Workshop on Hybrid Systems Biology Vienna,
-  Austria, July 23-24, 2014 at the International Conference on
-  Computer-Aided Verification 2014.  Preprint at <a title="Abstract"
-  href="http://arxiv.org/abs/1411.4980">arXiv:1411.4980</a>
+* Sterratt, D. C., Sorokina, O. and Armstrong,
+  J. D. (2015). ‘Integration of rule-based models and compartmental
+  models of neurons’. In O. Maler, Á. Halász, T. Dang and C. Piazza,
+  eds., _Hybrid Systems Biology: Second International Workshop, HSB
+  2013, Taormina, Italy, September 2, 2013 and Third International
+  Workshop, HSB 2014, Vienna, Austria, July 23-24, 2014, Revised
+  Selected Papers_, vol. 7699 of Lecture Notes in Bioinformatics,
+  pp. 143–158. Springer International Publishing,
+  Cham. [doi: 10.1007/978-3-319-27656-4_9](http://dx.doi.org:10.1007/978-3-319-27656-4_9).
+  Preprint at [arXiv:1411.4980](http://arxiv.org/abs/1411.4980)
 
 * Sterratt, D. C. (2015). Invited articles on ‘Nernst Equation’,
   ‘Goldman-Hodgkin-Katz Equations’, ‘Gating Current’, ‘Nomenclature of
   Ion Channels (IUPHAR Scheme)’ and ‘Q10: the Effect of Temperature on
   Ion Channel Kinetics’. In Jaeger, D. and Jung, R.,
-  eds. (2015). _Encyclopedia of Computational Neuro science_. Springer
+  eds. (2015). _Encyclopedia of Computational Neuroscience_. Springer
   New York
 
 * Hjorth, J. J. J., Savier, E., Sterratt, D. C., Reber, M. and Eglen,
-S. J. (2015). ‘Estimating the location and size of retinal injections
-from orthogonal images of an intact retina’. BMC Neuroscience 16:80
-[PDF](http://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-015-0217-8)
+  S. J. (2015). ‘Estimating the location and size of retinal
+  injections from orthogonal images of an intact retina’. BMC
+  Neuroscience 16:80
+  [PDF](http://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-015-0217-8)
 
 * Hjorth, J. J. J., Sterratt, D. C., Cutts, C. S., Willshaw, D. J. and
   Eglen, S. J. (2015). ‘Quantitative assessment of computational
