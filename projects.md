@@ -69,9 +69,9 @@ axonal branching in particular regions of the target region, leading
 to a diffuse topographic map. Electrical activity combined with
 synaptic plasticity is thought to refine this mapping. 
 
-An important issue is how to quantify and analyse of topographic
-maps. In Willshaw, Sterratt and Teriakidis (2014), we have devised a
-new computational method entitled the "lattice method" to analyse
+An important issue is how to quantify and analyse topographic maps. In
+Willshaw, Sterratt and Teriakidis (2014), we have devised a new
+computational method entitled the "lattice method" to analyse
 experimental data. Our method reveals that there is hidden order in
 some maps that were previously thought to be disordered.
 
